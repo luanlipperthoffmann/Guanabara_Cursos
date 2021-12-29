@@ -1,0 +1,6 @@
+No py se os dados forem mensagens eles terão delimitadores especiais, esses delimitadores serão aspas simples ou aspas duplas, porem o mais correto serão as aspas simples!
+Estas peças serão colocadas dentro de parentes!
+No py todos os comandos sào funções e todas a função são colocadas dentro de parentes. Porém os numeros são utilizados primeiramente para calculo e por isso fica fora dos parentes, se numeros estiver dentro de parentes ele será uma mensagem. 
+O sinal de + entre '' serve para juntar e não para somar!;
+No py todas variável é um objeto;
+Toda variável no py recebe algo e este recebe é utilizado pelo sinal de =
